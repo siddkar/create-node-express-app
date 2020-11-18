@@ -1,0 +1,27 @@
+{
+  "name": "create-node-express-app",
+  "version": "1.0.0",
+  "description": "A node express blueprint for AWS lambda and Microservices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddkar/create-node-express-app.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "lambda",
+    "serverless",
+    "starter",
+    "cli"
+  ],
+  "author": "Siddharth Kar <siddharth.kar@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siddkar/create-node-express-app/issues"
+  },
+  "homepage": "https://github.com/siddkar/create-node-express-app#readme"
+}
